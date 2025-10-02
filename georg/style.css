@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(180deg, #7ada34 0%, #745e2e 27.88%, #79553c 100%);
+    color: white;
+    margin: 0;
+}
+
+header div{
+    display: flex;
+    justify-content: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    background: white;
+    padding: 20px;
+    margin-top: 16px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: blue;
+    font-family: Calibri;
+    font-size: 25px;
+    font-style: italic;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Calibri;
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.Ast {
+    background: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    border: 5px solid black;
+    width: 300px;
+}
+
+.Ast h2 {
+    font-family: Calibri;
+    font-size: 23px;
+}
+
+.Ast img {
+    max-width: 100%;
+}
+
+.Ast p {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    font-style: italic;
+}
+
+.article-but {
+    font-family: verdana;
+    font-size: 20px;
+    font-style: italic; 
+}
+
+footer {
+    background: linear-gradient(90deg, #fffdfd 0%, #000 100%);
+}
+
+footer img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;  
+}
+
+footer p {
+    font-family: Verdana;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,156 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: flex; 
+    justify-content: flex-end;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    max-width: 1100px;
+    margin: 0px auto 0px auto;
+    align-items: center;
+    color: black;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: 20px;
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(0, 167, 189);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    background-color: white;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+header img {
+    width: 280px;
+    height: 75px;
+}
+
+.button {
+    background-color: #36bbce;
+    padding: 15px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 34px;
+    margin-top: 45px;
+}
+footer {
+    background: #2fa3b4;
+    display: flex;
+    align-items: center;
+    padding: 45px 0px 45px 70px;
+}
+
+footer a {
+    margin-right: 50px;
+}
+
+footer p {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+}
